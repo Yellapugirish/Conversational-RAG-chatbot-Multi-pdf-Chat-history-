@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+python-dotenv
+langchain-google-genai
+langchain-core
+streamlit
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langchain-classic
